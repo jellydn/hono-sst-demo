@@ -1,0 +1,20 @@
+{
+	"name": "hono-sst-demo",
+	"scripts": {
+		"check": "bunx @biomejs/biome check --apply .",
+		"dev": "bun run --hot src/index.ts",
+		"sst:deploy": "sst deploy",
+		"sst:dev": "sst dev"
+	},
+	"dependencies": {
+		"@hono/zod-validator": "^0.2.1",
+		"hono": "^4.2.7",
+		"sst": "ion",
+		"zod": "^3.23.4"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.7.1",
+		"@cloudflare/workers-types": "4.20240423.0",
+		"@types/bun": "latest"
+	}
+}
