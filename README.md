@@ -47,6 +47,8 @@ pre-commit install
 
 - [Hono - Ultrafast web framework for the Edges](https://hono.dev/top)
   - [RPC](https://hono.dev/guides/rpc)
+  - [Zod OpenAPI with Hono](https://hono.dev/snippets/zod-openapi)
+  - [Swagger UI - Hono](https://hono.dev/snippets/swagger-ui)
   - [Best Practices](https://hono.dev/guides/best-practices)
 - [Hono on Cloudflare with SST | Ion](https://ion.sst.dev/docs/start/cloudflare/hono/)
 
@@ -60,7 +62,7 @@ pre-commit install
 
 ## Show your support
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jellydn/moleculer-typescript-template&type=Date)](https://star-history.com/#jellydn/moleculer-typescript-template)
+[![Star History Chart](https://api.star-history.com/svg?repos=jellydn/hono-sst-demo&type=Date)](https://star-history.com/#jellydn/hono-sst-demo)
 
 Give a ⭐️ if this project helped you!
 
