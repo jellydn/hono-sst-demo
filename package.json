@@ -15,7 +15,7 @@
 		"zod": "^3.23.4"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.7.1",
+		"@biomejs/biome": "1.8.3",
 		"@cloudflare/workers-types": "4.20240821.1",
 		"@types/bun": "latest"
 	}
