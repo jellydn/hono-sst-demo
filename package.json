@@ -9,7 +9,7 @@
 	"dependencies": {
 		"@hono/swagger-ui": "^0.4.0",
 		"@hono/zod-openapi": "^0.16.0",
-		"@hono/zod-validator": "^0.2.1",
+		"@hono/zod-validator": "^0.4.0",
 		"hono": "^4.2.7",
 		"sst": "ion",
 		"zod": "^3.23.4"
