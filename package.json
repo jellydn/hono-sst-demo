@@ -12,7 +12,7 @@
 		"@hono/zod-validator": "^0.4.0",
 		"hono": "^4.2.7",
 		"sst": "ion",
-		"zod": "^3.23.4"
+		"zod": "^4.0.0"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.8.3",
